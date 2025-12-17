@@ -9,7 +9,7 @@
 - Preparing for Google Summer of Code 2025
 
 ## 🛠️ Skills
-- Languages: C++, Python, JavaScript, C, JAVA  
+- Languages: C++, Python, JavaScript, C, Java  
 - Tools: Git, GitHub, Linux
 - Exploring: Open-source contribution practices
 
